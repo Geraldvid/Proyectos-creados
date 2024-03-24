@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Seccion_8.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Seccion_8.exe
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Seccion_8.pdb
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.exe
+c:\users\user\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Datos.dll
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Entidades.dll
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Datos.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Entidades.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.Login.resources
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.Nuevovendedor.resources
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\obj\Debug\Seccion_8.OlvidoContra.resources
+C:\Users\User\documents\visual studio 2012\Projects\Seccion_8\Seccion_8\bin\Debug\Bunifu_UI_v1.5.3.dll
